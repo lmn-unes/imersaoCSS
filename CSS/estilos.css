@@ -1,0 +1,32 @@
+body {
+    font-family: monospace;
+    background-image: url('https://www.itforum365.com.br/wp-content/uploads/2018/11/Empresas-deveriam-se-preocupar-mais-com-algoritmos-do-Google.-Entenda-768x432.jpg');
+    background-size: auto 120vh;
+    height: 120hv;
+  }
+  
+  h1,
+  h2 {
+    color: white;
+    text-align: center;
+  }
+  
+  a {
+    color: white;
+    text-decoration: none;
+    font-style: bold;
+    font-size: 16px;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
